@@ -1,33 +1,33 @@
-title         : Vyshnav Gangadharan     # Add your name
-role          : Product Designer        # Add your role/position
-company       : Brainfish               # Add your company name
+title         : Moons                                # Add your name
+role          : Professional Smoothbrain             # Add your role/position
+company       : Nowhere                              # Add your company name
 
 
-description   : >-        # this means to ignore newlines until "baseurl:"
-  A UI/UX designer who loves Coding, Illustrating & creating 3D stuff
-baseurl       : ""        # the subpath of your site, e.g. /blog
-url           : "https://links.vyshnav.xyz"       # the base hostname & protocol for your site, e.g. http://example.com
-keywords      : vyshnav,vg,vyshnav gangadharan, indian designer, uiux designer, illustrator, developer, notion, blender
-theme-color   : "#4ade80"       # Used for browser theme-color meta tag
+description   : >-                                   # this means to ignore newlines until "baseurl:"
+  A generic dude who loves gaming, coding and cute cats
+baseurl       : ""                                   # the subpath of your site, e.g. /blog
+url           : "https://links.leafhub.dev"          # the base hostname & protocol for your site, e.g. http://example.com
+keywords      : leaf, moons, moonie, developer, gamer
+theme-color   : "#4ade80"                            # Used for browser theme-color meta tag
 
-gravatar      : 7a7483bd1b6f579f86da0f3818b90758     # Gravatar md5 hash
+gravatar      : e880cf7032df211cac4b52aa79f0f3d7     # Gravatar md5 hash
 image         : /assets/avatar.png                   # Add your avatar image src here
 branding      : true                                 # Your name will be replaced with your logo if set to true, change your logo here "_includes/svg/logo.svg"
 
 
 ### Author Info ###
 author:
-  name              : Vyshnav Gangadharan
-  twitter           : vyshnav_xyz
-  figma             : vyshnav
-  dribbble          : vyshnav_
-  github            : Vyshnav2255
-  linkedin          : vyshnav-gangadharan
+  name              : Moons
+  twitter           : MoonieGZ
+#  figma             : vyshnav
+#  dribbble          : vyshnav_
+  github            : MoonieGZ
+#  linkedin          : vyshnav-gangadharan
 #  goodreads         : vyshnav
-  buy me a coffee   : vyshnav
-#  youtube           : vyshnav
+  buy me a coffee   : MoonieGZ
+  youtube           : MoonieGZ
 #  facebook          : vyshnav
-#  twitch            : vyshnav
+  twitch            : MoonieGZ
 #  instagram         : vyshnav
 #  gitlab            : vyshnav
 #  codepen           : vyshnav
@@ -35,9 +35,9 @@ author:
 
 ### Analytics ###
 analytics:
-  enabled: true
-  google:
-    tracking_id: G-GD7E2GW8RY       #Add your Google analytics tracking ID here
+  enabled: false
+#  google:
+#    tracking_id:        #Add your Google analytics tracking ID here
 
 sass:
     style: compressed
