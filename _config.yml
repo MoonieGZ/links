@@ -12,7 +12,7 @@ theme-color   : "#4ade80"                            # Used for browser theme-co
 
 gravatar      : e880cf7032df211cac4b52aa79f0f3d7     # Gravatar md5 hash
 image         : /assets/avatar.png                   # Add your avatar image src here
-branding      : true                                 # Your name will be replaced with your logo if set to true, change your logo here "_includes/svg/logo.svg"
+branding      : false                                # Your name will be replaced with your logo if set to true, change your logo here "_includes/svg/logo.svg"
 
 
 ### Author Info ###
