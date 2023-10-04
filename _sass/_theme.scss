@@ -48,6 +48,6 @@
 
   button{
     @include themed(color, $dark-900, $dark-900);
-    @include themed(background-color, $green-400, $green-300);
+    @include themed(background-color, $purple-400, $purple-300);
   }
 }

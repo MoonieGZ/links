@@ -1,37 +1,34 @@
-title         : Moons                                # Add your name
-role          : Professional Smoothbrain             # Add your role/position
-company       : Nowhere                              # Add your company name
+title: Moons
+role: Professional Smoothbrain
+company: Nowhere
 
-
-description   : >-                                   # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
   A generic dude who loves gaming, coding and cute cats
-baseurl       : ""                                   # the subpath of your site, e.g. /blog
-url           : "https://moons.bio"          # the base hostname & protocol for your site, e.g. http://example.com
-keywords      : leaf, moons, moonie, developer, gamer
-theme-color   : "#4ade80"                            # Used for browser theme-color meta tag
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://moons.bio" # the base hostname & protocol for your site, e.g. http://example.com
+keywords: moons, moonie, developer, gamer
+theme-color: "#de2d9c" # Used for browser theme-color meta tag
 
-gravatar      : e880cf7032df211cac4b52aa79f0f3d7     # Gravatar md5 hash
-image         : /assets/avatar.png                   # Add your avatar image src here
-branding      : false                                # Your name will be replaced with your logo if set to true, change your logo here "_includes/svg/logo.svg"
-
+gravatar: e880cf7032df211cac4b52aa79f0f3d7 # Gravatar md5 hash
+image: /assets/avatar.png # Add your avatar image src here
+branding: false # Your name will be replaced with your logo if set to true, change your logo here "_includes/svg/logo.svg"
 
 ### Author Info ###
 author:
-  name              : Moons
-  twitter           : MoonieGZ
-#  figma             : vyshnav
-#  dribbble          : vyshnav_
-  github            : MoonieGZ
-#  linkedin          : vyshnav-gangadharan
-#  goodreads         : vyshnav
-  buy me a coffee   : MoonieGZ
-  youtube           : MoonieGZ
-#  facebook          : vyshnav
-  twitch            : MoonieGZ
+  name: Moons
+  twitter: MoonieGZ
+  #  figma             : vyshnav
+  #  dribbble          : vyshnav_
+  github: MoonieGZ
+  #  linkedin          : vyshnav-gangadharan
+  #  goodreads         : vyshnav
+  buy me a coffee: MoonieGZ
+  youtube: MoonieGZ
+  #  facebook          : vyshnav
+  twitch: MoonieGZ
 #  instagram         : vyshnav
 #  gitlab            : vyshnav
 #  codepen           : vyshnav
-
 
 ### Analytics ###
 analytics:
@@ -40,12 +37,12 @@ analytics:
 #    tracking_id:        #Add your Google analytics tracking ID here
 
 sass:
-    style: compressed
+  style: compressed
 
 exclude:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - vendor
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor
